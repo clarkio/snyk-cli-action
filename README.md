@@ -11,6 +11,6 @@ A GitHub action to run snyk test for vulnerabilities in the project
 
 
 ## Contributors
-Thank you to the following folks who helped make this happen while on stream!
+Thank you to the following folks from the [Twitch](https://twitch.tv/clarkio) stream who helped make this happen!
 
 @lannonbr, @roberttables, @ikoa, @HugoDahl, @jtsom, @wwsean08, @BraveCobra2
