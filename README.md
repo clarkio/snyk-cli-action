@@ -1,4 +1,6 @@
-# snyk-cli-action
+# snyk-cli-action (deprecated)
+⚠️⚠️ Use the official GitHub Action from Snyk instead: https://github.com/snyk/actions ⚠️⚠️
+<br><br>Original Description:
 A GitHub action to run snyk test for vulnerabilities in the project
 
 ## How to Use
